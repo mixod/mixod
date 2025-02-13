@@ -9,3 +9,7 @@
 mixod/mixod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Badges
+![](https://github-readme-stats.vercel.app/api?username=mixod&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mixod&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mixod&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
